@@ -1,0 +1,11 @@
+name: 'rpi_i2c'
+version: 0.0.1
+description: use I2C on Raspberry Pi
+#author: Your Name <email@example.com>
+#homepage: https://www.example.com
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  rpi_gpio: any
+  logging: any
